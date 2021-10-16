@@ -3,7 +3,7 @@ A C++ function based property library
 
 Open CppProperty.sln and build any configuration + platform should output this:
 
-===============================================================================
+======================================
 Hello World!
 EnumValue = DisplayValue1
 IntValue = 8
